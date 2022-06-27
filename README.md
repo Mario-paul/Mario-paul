@@ -1,4 +1,5 @@
-<img src="./assets/synthwave_1440.png" alt="banner"/>
+<!-- <img src="./assets/synthwave_1440.png" alt="banner"/> -->
+<div align="center"><img src="https://i.imgur.com/E23Rkqb.png" title="source: imgur.com"/></div>
 
 <h2 align="center">Hey there! 👋</h2>
 <p align="center">My name is Mario. I'm a Web Developer and Programmer, nice to meet you!</p>
