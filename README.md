@@ -1,4 +1,6 @@
-# Hey there! 👋
+<img src="./assets/synthwave_1440.png" alt="banner"/>
+
+## Hey there! 👋
 
 My name is Mario. I'm a Web Developer and Programmer, nice to meet you!
 
