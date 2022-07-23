@@ -60,12 +60,23 @@
 
 <div align="center">
 
+<!-- light mode -->
 <!-- Github stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true" />
+</a>
+<!-- Top languages -->
+<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact" />
+</a>
+
+<!-- dark mode -->
+<!-- Github stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true" />
 </a>
 <!-- Top languages -->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact" />
 </a>
 
