@@ -51,33 +51,26 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<!-- Github stats -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true)
-](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- Top languages -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <div align="center">
 
 <!-- light mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true" />
+  <img width= 355 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true" />
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact" />
 </a>
 
 <!-- dark mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img width=355 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact&bg_color=00000000" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact&bg_color=00000000" />
 </a>
 
 </div>
@@ -87,7 +80,7 @@
 <!-- Modern visitor counter -->
 <div align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-paul.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-paul.visitor-badge) [![Github](https://img.shields.io/github/followers/Mario-paul?label=Follow&style=social)](https://github.com/Mario-paul)
 
 </div>
 
