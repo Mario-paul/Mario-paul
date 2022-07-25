@@ -4,7 +4,7 @@
 <!-- <h2 align="center">Hey there! 👋</h2>
 <p align="center">My name is Mario. I'm a Web Developer and Programmer, nice to meet you!</p> -->
 
-<h2 align="center">Skills & technologies</h2>
+<h2 align="center">Tech stack</h2>
 
 <h3 align="center">Web</h3>
 <div align="center">
