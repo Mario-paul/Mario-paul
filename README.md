@@ -59,7 +59,7 @@
   <img width= 355 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
-<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact"  alt="mario paul top languages"/>
 </a>
 
@@ -69,7 +69,7 @@
   <img width=355 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
-<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact&bg_color=00000000"  alt="mario paul top languages"/>
 </a>
 
