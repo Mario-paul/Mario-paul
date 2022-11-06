@@ -58,7 +58,7 @@
 <!-- light mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width= 415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true"  alt="mario paul github readme stats"/>
+  <img width= 415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true&count_private=true"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -68,7 +68,7 @@
 <!-- dark mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width=415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"  alt="mario paul github readme stats"/>
+  <img width=415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
