@@ -33,6 +33,7 @@
 
 <a href="https://material.io/design"><img src="https://img.shields.io/badge/-Material_Design-1b1b1b?style=flat&logo=materialdesign" alt="material.io icon"></a>
 <a href="https://square.github.io/retrofit"><img src="https://img.shields.io/badge/-Retrofit-48B983?style=flat&logo=square" alt="retrofit icon"></a>
+<a href="https://developer.android.com/jetpack/androidx/releases/room"><img src="https://img.shields.io/badge/-SQLite / Room-044a64?style=flat&logo=sqlite" alt="room icon"></a>
 
 </div>
 
