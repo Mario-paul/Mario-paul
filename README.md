@@ -50,6 +50,7 @@
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=f5c022" alt="linux icon"></a>
 <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=00a2ed&color=00a2ed" alt="windows icon"></a>
 <a href="https://www.android.com/"><img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=3ddc84&color=3ddc84" alt="android icon"></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=F26B3A&color=FFFFFF" alt="postman icon"></a>
 
 </div>
 
