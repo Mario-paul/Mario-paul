@@ -61,21 +61,21 @@
 <!-- light mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width= 415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true&count_private=true"  alt="mario paul github readme stats"/>
+  <img width= 415 src="https://github-readme-stats-eight-fawn-16.vercel.app/api?username=Mario-paul&show_icons=true&theme=default&hide_border=true&count_private=true"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact"  alt="mario paul top languages"/>
+  <img width=350 src="https://github-readme-stats-eight-fawn-16.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=default&hide_border=true&layout=compact"  alt="mario paul top languages"/>
 </a>
 
 <!-- dark mode -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width=415 src="https://github-readme-stats.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true"  alt="mario paul github readme stats"/>
+  <img width=415 src="https://github-readme-stats-eight-fawn-16.vercel.app/api?username=Mario-paul&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true"  alt="mario paul github readme stats"/>
 </a>
 <!-- Top languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact&bg_color=00000000"  alt="mario paul top languages"/>
+  <img width=350 src="https://github-readme-stats-eight-fawn-16.vercel.app/api/top-langs/?username=Mario-paul&langs_count=10&theme=radical&hide_border=true&layout=compact&bg_color=00000000"  alt="mario paul top languages"/>
 </a>
 
 </div>
@@ -85,7 +85,8 @@
 <!-- Modern visitor counter -->
 <div align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-paul.visitor-badge) [![Github](https://img.shields.io/github/followers/Mario-paul?label=Follow&style=social)](https://github.com/Mario-paul)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mario-paul.visitor-badge) -->
+[![Github](https://img.shields.io/github/followers/Mario-paul?label=Follow&style=social)](https://github.com/Mario-paul)
 
 </div>
 
